@@ -323,9 +323,6 @@ Nette\Neon\Node\InlineArrayNode
    |  |  |  endLine: null
    |  |  value: Nette\Neon\Node\LiteralNode
    |  |  |  value: DateTime
-   |  |  |  |  date: '2016-06-03 19:00:00.000000'
-   |  |  |  |  timezone_type: 1
-   |  |  |  |  timezone: '+02:00'
    |  |  |  startTokenPos: null
    |  |  |  endTokenPos: null
    |  |  |  startLine: null
